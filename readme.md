@@ -114,10 +114,18 @@ O servidor estará disponível em: [http://localhost:5000](http://localhost:5000
 
 ## 🧑‍💻 Autor
 
-Desenvolvido por [Douglas Willian Bueno Sobrinho](https://github.com/DouglasBueno11)
-📧 Email: 
-- douglas.bueno.senai@gmail.com
-- douglas.w.sobrinho@aluno.senai.br
-- douglaswillianbueno.com@gmail.com
+Desenvolvido por: 
+- [Douglas Willian Bueno Sobrinho](https://github.com/DouglasBueno11)
+  
+  📧 Email: 
+    - douglas.bueno.senai@gmail.com
+    - douglas.w.sobrinho@aluno.senai.br
+    - douglaswillianbueno.com@gmail.com
+
+- [Gabriel Gonsalves Camargo Silva](https://github.com/gabrielcamargogsilva)
+  
+  📧 Email: 
+    - gabrielcamargogsilva@gmail.com
+    - gabriel.cgsilva.senai@gmail.com
 
 ---
