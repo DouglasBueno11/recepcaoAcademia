@@ -111,17 +111,17 @@ O servidor estará disponível em: [http://localhost:5000](http://localhost:5000
 ```
 
 ## 💻✨ Acesse o Front-End
-- Administrador:
+- **Administrador:**
   - GitHub: https://github.com/gabrielcamargogsilva/Projeto-Academia-Admin.git
   - Vercel: https://projeto-academia-admin-liart.vercel.app/
 
-- Catraca:
+- **Catraca:**
   - GitHub: https://github.com/gabrielcamargogsilva/Projeto-Academia-Cliente.git
   - Vercel: https://projeto-academia-cliente.vercel.app/
 
 ## 🧑‍💻 Autor
 
-Desenvolvido por: 
+**Desenvolvido por:**
 - [Douglas Willian Bueno Sobrinho](https://github.com/DouglasBueno11)
   
   📧 Email: 
