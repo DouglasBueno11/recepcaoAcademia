@@ -35,7 +35,7 @@ Este é um sistema de gerenciamento de alunos desenvolvido com **Flask** e **Fir
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/DouglasBueno11/recepcaoAcademia.git
 cd nome-do-repositorio
 ```
 
@@ -110,7 +110,14 @@ O servidor estará disponível em: [http://localhost:5000](http://localhost:5000
 }
 ```
 
----
+## 💻✨ Acesse o Front-End
+- Administrador:
+  - GitHub: https://github.com/gabrielcamargogsilva/Projeto-Academia-Admin.git
+  - Vercel: https://projeto-academia-admin-liart.vercel.app/
+
+- Catraca:
+  - GitHub: https://github.com/gabrielcamargogsilva/Projeto-Academia-Cliente.git
+  - Vercel: https://projeto-academia-cliente.vercel.app/
 
 ## 🧑‍💻 Autor
 
