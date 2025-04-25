@@ -1,4 +1,4 @@
-# 💪 Sistema de Gerenciamento de Alunos - Academia ON
+# 💪 Sistema de Gerenciamento de Alunos - Academia
 
 Este é um sistema de gerenciamento de alunos desenvolvido com **Flask** e **Firebase Firestore**, projetado para academias que desejam controlar o acesso de seus alunos por meio do CPF, além de realizar cadastros, atualizações e exclusões de dados dos mesmos.
 
