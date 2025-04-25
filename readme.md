@@ -129,7 +129,7 @@ O servidor estará disponível em: [http://localhost:5000](http://localhost:5000
     - douglas.w.sobrinho@aluno.senai.br
     - douglaswillianbueno.com@gmail.com
 
-- [Gabriel Gonsalves Camargo Silva](https://github.com/gabrielcamargogsilva)
+- [Gabriel Camargo Gonçalves Silva](https://github.com/gabrielcamargogsilva)
   
   📧 Email: 
     - gabrielcamargogsilva@gmail.com
